@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# npm
+.npmignore
+.npmrc
+
+# tool
+.vscode
+
+# mac
+.DS_Store
+
+# storybook
+.storybook
+stories/*
+
+# config
+jest.*.js
+*.config.js
+tsconfig.json
+setupTests.ts
+webpack/*
+scripts/*
+
+# test
+tests
+
+# scss
+_css-variables.scss
+
+# etc
+examples
+assets/*
