@@ -12,6 +12,7 @@ const Box = styled.div`
   width: 200px;
   background-color: tomato;
   animation: spin 2s linear infinite;
+  color: var(--white);
 
   @keyframes spin {
     from {

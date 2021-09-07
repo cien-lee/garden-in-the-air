@@ -3,6 +3,7 @@ import type { AppProps } from 'next/app';
 import Head from 'next/head';
 
 import '@styles/global';
+import '@styles/theme';
 
 function App({ Component, pageProps }: AppProps) {
   return (

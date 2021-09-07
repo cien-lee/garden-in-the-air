@@ -31,7 +31,7 @@ const ButtonStyle = styled.button`
   height: 54px;
 
   font-size: 16px;
-  background-color: aliceblue;
+  background-color: var(--black);
 `;
 
 export default Button;
