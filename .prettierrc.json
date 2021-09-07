@@ -1,0 +1,16 @@
+{
+  "$schema": "https://t1.daumcdn.net/kakaopay/fe/prettierrc.json",
+  "tabWidth": 2,
+  "singleQuote": true,
+  "printWidth": 120,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "useTabs": false,
+  "semi": true,
+  "arrowParens": "avoid",
+  "requirePragma": false,
+  "proseWrap": "preserve",
+  "htmlWhitespaceSensitivity": "ignore",
+  "endOfLine": "lf",
+  "trailingComma": "none"
+}

@@ -6,6 +6,13 @@ npm-debug.log*
 # Dependency directory
 node_modules
 
+# next.js
+/.next/
+/.linaria-cache/
+/out/
+
+/dist
+
 # npm
 .npmignore
 .npmrc

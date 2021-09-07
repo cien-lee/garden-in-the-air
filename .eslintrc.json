@@ -1,0 +1,18 @@
+{
+  "$schema": "https://t1.daumcdn.net/kakaopay/fe/eslintrc.json",
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "extends": [
+    "react-app",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": "warn"
+  }
+}

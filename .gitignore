@@ -1,6 +1,11 @@
 # dependencies
 /node_modules
 
+# next.js
+/.next/
+/.linaria-cache/
+/out/
+
 # mac
 .DS_Store
 
